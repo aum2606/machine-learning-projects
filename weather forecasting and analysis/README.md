@@ -22,7 +22,7 @@ Installation
 
      Clone this repository:
 
-git clone https://github.com/your-repo/weather-analysis-forecasting.git
+git clone https://github.com/aum2606/machine-learning-projects.git
 cd weather-analysis-forecasting
 
 # Install dependencies:
